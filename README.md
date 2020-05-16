@@ -1,2 +1,2 @@
 # datacamp_scrapy
-web scrap all data camp material with Python
+Web scraping all data camp material with Python
